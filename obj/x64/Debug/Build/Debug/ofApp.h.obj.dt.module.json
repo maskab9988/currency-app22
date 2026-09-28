@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "obj\\x64\\Debug\\Build\\Debug\\ofApp.obj",
+            "outputs": [
+                "obj\\x64\\Debug\\Build\\Debug\\ofApp.h.obj.dt.module.json",
+                "obj\\x64\\Debug\\Build\\Debug\\ofApp.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+﻿  CurrencyAPI.cpp
+  SelectionMenu.cpp
+  main.cpp
+  ofApp.cpp
+  TextInputField.cpp
+C:\openFrameworks\apps\myApps\CurrencyConverter\src\TextInputField.cpp(60,12): warning C4834: discarding return value of function with [[nodiscard]] attribute
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+     Creating library bin\CurrencyConverter_debug.lib and object bin\CurrencyConverter_debug.exp
+  CurrencyConverter.vcxproj -> C:\openFrameworks\apps\myApps\CurrencyConverter\bin\CurrencyConverter_debug.exe
+  File not found - *.dll
+  0 File(s) copied
